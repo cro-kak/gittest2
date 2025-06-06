@@ -8,5 +8,6 @@ public class Git {
        int num1 = sc.nextInt();
 
         System.out.print("Hlello ");    
+        System.out.print("Hlellos ");    
     }
 }
