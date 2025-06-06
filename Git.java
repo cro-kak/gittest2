@@ -6,8 +6,10 @@ public class Git {
 
        System.out.print("Enter a number:");
        int num1 = sc.nextInt();
+    
+       System.out.print("Enter a number:");
+       int num2 = sc.nextInt();
 
-        System.out.print("Hlello ");    
-        System.out.print("Hlellos ");    
+
     }
 }
