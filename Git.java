@@ -7,7 +7,7 @@ public class Git {
        System.out.print("Enter a number:");
        int num1 = sc.nextInt();
     
-       System.out.print("Hello Worlds");
+       System.out.print("Hello PUke");
 
 
     }
